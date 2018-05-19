@@ -30,7 +30,7 @@ module.exports = function(grunt) {
                 files: [{
                     expand: true,
                     src: [
-                        'save/*',
+                        'save/**/*',
                         'config/auto_pickup.txt',
                         'config/options.txt',
                         'graveyard/#RHdheW5lIFR5c29u.seen.0.0',
