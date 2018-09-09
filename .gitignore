@@ -10,3 +10,4 @@ config/fonts.json
 config/fontlist.txt
 
 node_modules
+.vagrant/
